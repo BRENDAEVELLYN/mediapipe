@@ -80,8 +80,10 @@ python nome_do_arquivo.py
 
 A janela da câmera será exibida com a detecção e os alarmes ativados conforme a condição de sonolência for detectada.
 
-# Referências
-Documentação do OpenCV.
-Documentação do MediaPipe.
-Documentação do Pygame.
+
+## Referências
+
+- [Documentação do OpenCV](https://opencv.org/)
+- [Documentação do MediaPipe](https://google.github.io/mediapipe/)
+- [Documentação do Pygame](https://www.pygame.org/docs/)
 
