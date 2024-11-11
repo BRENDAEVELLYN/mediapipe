@@ -21,9 +21,7 @@ O programa também inclui um alarme sonoro que é acionado quando o usuário man
 
 ## Instalação
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+
 Instale as bibliotecas necessárias:
 
 pip install opencv-python mediapipe numpy pygame
